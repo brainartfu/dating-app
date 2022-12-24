@@ -1,0 +1,1506 @@
+[
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_vi.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_vi.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_chat_assets_microphone.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_chat_assets_microphone.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_fencing.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_fencing.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ga.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ga.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ma.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ma.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_chat_assets_play.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_chat_assets_play.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_cx.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_cx.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_icons_closexicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/assets_icons_closexicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_tn.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_tn.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_instagram.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_instagram.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mp.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mp.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_lc.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_lc.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_chat_assets_send.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_chat_assets_send.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bl.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bl.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_inapppurchase_assets_tick.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_inapppurchase_assets_tick.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_uz.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_uz.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_icons_inscriptionicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/assets_icons_inscriptionicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_icons_addusericonfilled.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/assets_icons_addusericonfilled.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_searchicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_searchicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_lr.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_lr.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_pw.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_pw.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_chat_assets_borderimg1.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_chat_assets_borderimg1.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gp.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gp.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_chatfilledicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_chatfilledicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ck.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ck.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_educateschoolicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_educateschoolicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_tm.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_tm.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_menu.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_menu.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sa.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sa.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_wf.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_wf.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_icons_delete.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/assets_icons_delete.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_kg.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_kg.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ph.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ph.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_cy.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_cy.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_icons_chaticon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/assets_icons_chaticon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gb.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gb.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_za.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_za.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ao.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ao.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_et.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_et.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_icons_cameraicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/assets_icons_cameraicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_accountmaleicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_accountmaleicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_by.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_by.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mc.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mc.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_no.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_no.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gq.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gq.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/raw_src_translations_en.json.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/raw/src_translations_en.json"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_avchat_assets_endcall.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_avchat_assets_endcall.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_hk.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_hk.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_nz.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_nz.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ch.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ch.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_il.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_il.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_avchat_assets_phonecall.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_avchat_assets_phonecall.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_lt.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_lt.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_am.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_am.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_kr.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_kr.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_undo.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_undo.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_logoutmenuitem.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_logoutmenuitem.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_notification.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_notification.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_inscriptionicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_inscriptionicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_heartfilledicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_heartfilledicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_avchat_assets_speaker.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_avchat_assets_speaker.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_om.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_om.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_coreassets_arrowbackicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_coreassets_arrowbackicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_re.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_re.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_nl.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_nl.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_cv.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_cv.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_la.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_la.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_de.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_de.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_eh.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_eh.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_trulynative_tnnumberpicker_assets_plusicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_trulynative_tnnumberpicker_assets_plusicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_homeicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_homeicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gn.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gn.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_chat_assets_replyicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_chat_assets_replyicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mr.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mr.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_vip_2.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_vip_2.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_es.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_es.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_rs.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_rs.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_kw.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_kw.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bj.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bj.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_cm.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_cm.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ki.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ki.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ee.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ee.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_hn.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_hn.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sb.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sb.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/raw_app.json.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/raw/app.json"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bm.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bm.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_pg.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_pg.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_starfilledicon2.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_starfilledicon2.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ss.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ss.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mo.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mo.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_na.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_na.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_uy.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_uy.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_yt.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_yt.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_textborderimg2.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_textborderimg2.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ad.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ad.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_tj.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_tj.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bw.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bw.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_me.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_me.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_privatechaticon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_privatechaticon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ro.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ro.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_dk.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_dk.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_se.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_se.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_chat_assets_camerafilled.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_chat_assets_camerafilled.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_tc.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_tc.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ml.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ml.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/raw_src_translations_fr.json.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/raw/src_translations_fr.json"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ve.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ve.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_dislike.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_dislike.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_chat_assets_call.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_chat_assets_call.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_addusericon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_addusericon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sm.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sm.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_layerson2.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_layerson2.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_az.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_az.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_chat_assets_pause.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_chat_assets_pause.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ge.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ge.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_md.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_md.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_icons_cameraicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/assets_icons_cameraicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ru.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ru.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ug.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ug.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_td.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_td.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_as.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_as.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_icons_camerafilledicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/assets_icons_camerafilledicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mf.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mf.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_nc.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_nc.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ni.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ni.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_coreassets_rightarrow.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_coreassets_rightarrow.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_addusericonfilled.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_addusericonfilled.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_cn.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_cn.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ba.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ba.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ps.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ps.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_icons_friendsicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/assets_icons_friendsicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ec.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ec.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_icons_closexicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/assets_icons_closexicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_cu.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_cu.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_fm.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_fm.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_icons8marker500.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_icons8marker500.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ws.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ws.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_io.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_io.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_at.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_at.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ie.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ie.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_cz.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_cz.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_icons_addusericonfilled.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/assets_icons_addusericonfilled.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sr.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sr.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_tz.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_tz.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_py.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_py.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mq.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mq.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_co.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_co.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ai.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ai.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_arrowdownicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_arrowdownicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_hr.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_hr.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_logo.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_logo.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mk.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mk.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ci.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ci.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_borderimg1.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_borderimg1.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_chat_assets_borderimg2.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_chat_assets_borderimg2.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ke.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ke.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mv.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mv.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bf.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bf.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bq.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bq.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_icons_homeicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/assets_icons_homeicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_pt.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_pt.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativephoneinput_lib_resources_countries.json.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/raw/node_modules_reactnativephoneinput_lib_resources_countries.json"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_to.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_to.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_jm.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_jm.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sl.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sl.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/layout_launch_screen.xml.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_kp.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_kp.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_vu.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_vu.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_lb.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_lb.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ua.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ua.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_icons8instagram100.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_icons8instagram100.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_fireicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_fireicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ls.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ls.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_friendsicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_friendsicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_blockeduser64.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_blockeduser64.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gd.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gd.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_personfilledicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_personfilledicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_fr.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_fr.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gu.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gu.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_km.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_km.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ly.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ly.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ht.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ht.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_vip.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_vip.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gh.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gh.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_cc.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_cc.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_fj.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_fj.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_do.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_do.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mw.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mw.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_be.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_be.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_vippass.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_vippass.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ir.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ir.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_jo.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_jo.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_us.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_us.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_pa.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_pa.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_lk.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_lk.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_contactcallicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_contactcallicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_trulynative_tnnumberpicker_assets_minusicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_trulynative_tnnumberpicker_assets_minusicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sh.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sh.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bs.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bs.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_id.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_id.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_icons_shareicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/assets_icons_shareicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_chat.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_chat.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_tt.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_tt.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_cr.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_cr.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_icons_inscriptionicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/assets_icons_inscriptionicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_kn.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_kn.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sx.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sx.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_vc.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_vc.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gw.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gw.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bd.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bd.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_coreassets_playbutton.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_coreassets_playbutton.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_settingsmenuitem.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_settingsmenuitem.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_icons_addusericon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/assets_icons_addusericon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_chaticon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_chaticon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_icons_chaticon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/assets_icons_chaticon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_coreassets_googlebutton.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_coreassets_googlebutton.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_tg.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_tg.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gi.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gi.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_br.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_br.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_cd.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_cd.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_nf.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_nf.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_closexicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_closexicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_borderimg2.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_borderimg2.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sy.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sy.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bg.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bg.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mu.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mu.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_qa.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_qa.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gf.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gf.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_zw.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_zw.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sg.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sg.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_li.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_li.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_shareicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_shareicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_th.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_th.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_chat_assets_closexicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_chat_assets_closexicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_camerafilledicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_camerafilledicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sk.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sk.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_pr.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_pr.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gt.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gt.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mx.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mx.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mg.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mg.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sj.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sj.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_textborderimg1.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_textborderimg1.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_avchat_assets_mutedmicicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_avchat_assets_mutedmicicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_checkedicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_checkedicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_dm.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_dm.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_coreassets_dismissrounded.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_coreassets_dismissrounded.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_icons_privatechaticon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/assets_icons_privatechaticon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ng.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ng.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_au.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_au.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_fk.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_fk.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_cameraicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_cameraicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gy.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gy.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_pm.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_pm.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_icons_camerafilledicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/assets_icons_camerafilledicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_iq.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_iq.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sv.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sv.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_nu.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_nu.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_icons_homeicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/assets_icons_homeicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_kz.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_kz.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_vn.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_vn.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ax.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ax.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ag.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ag.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_it.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_it.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_chat_assets_settingsicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_chat_assets_settingsicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_tv.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_tv.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_defaultavatar.jpg.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_defaultavatar.jpg"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_nr.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_nr.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_pe.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_pe.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_crossfilledicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_crossfilledicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/raw_src_translations_ar.json.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/raw/src_translations_ar.json"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_in.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_in.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ms.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ms.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ar.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ar.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_je.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_je.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_lu.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_lu.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_st.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_st.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bi.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bi.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_chat_assets_textborderimg1.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_chat_assets_textborderimg1.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mz.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mz.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bb.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bb.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_tk.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_tk.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mt.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mt.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bo.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bo.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mm.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mm.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_al.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_al.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_np.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_np.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_cg.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_cg.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_dj.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_dj.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_super_like.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_super_like.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_delete.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_delete.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ye.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ye.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_chat_assets_textborderimg2.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_chat_assets_textborderimg2.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sd.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sd.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ae.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ae.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_pl.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_pl.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bh.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bh.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_coreassets_search.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_coreassets_search.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_images_vip_1.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_images_vip_1.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sn.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sn.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_icons_privatechaticon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/assets_icons_privatechaticon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativephoneinput_lib_resources_numbertype.json.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/raw/node_modules_reactnativephoneinput_lib_resources_numbertype.json"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ca.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ca.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_tl.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_tl.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bn.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bn.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_icons_searchicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/assets_icons_searchicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_icons_searchicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/assets_icons_searchicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_vg.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_vg.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_cl.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_cl.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_er.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_er.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gm.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gm.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_eg.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_eg.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sc.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sc.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_is.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_is.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_avchat_assets_microphone.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_avchat_assets_microphone.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_tw.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_tw.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_fi.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_fi.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ky.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ky.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_af.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_af.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_aw.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_aw.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_kh.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_kh.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_icons_delete.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/assets_icons_delete.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_pk.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_pk.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mn.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mn.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_assets_icons_shareicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xxhdpi/assets_icons_shareicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_icons_friendsicon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/assets_icons_friendsicon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_pf.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_pf.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_src_core_chat_assets_videocamerafilled.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/src_core_chat_assets_videocamerafilled.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_so.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_so.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ne.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ne.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_icons_menu.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/assets_icons_menu.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_tr.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_tr.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_va.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_va.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_icons_tick.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/assets_icons_tick.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_zm.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_zm.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gr.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gr.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_jp.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_jp.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bz.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bz.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_fo.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_fo.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_im.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_im.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_hu.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_hu.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_gg.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_gg.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_cw.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_cw.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_icons_addusericon.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-xhdpi/assets_icons_addusericon.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_my.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_my.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_lv.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_lv.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_mh.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_mh.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_dz.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_dz.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_ks.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_ks.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_bt.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_bt.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_cf.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_cf.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_rw.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_rw.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_si.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_si.png"
+    },
+    {
+        "merged": "/Users/apple/GovindSingh/dating/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnativephoneinput_lib_resources_flags_images_sz.png.flat",
+        "source": "/Users/apple/GovindSingh/dating/android/app/src/main/res/drawable-mdpi/node_modules_reactnativephoneinput_lib_resources_flags_images_sz.png"
+    }
+]

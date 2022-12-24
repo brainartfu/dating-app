@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>91443376326-1dqaajeps6s092pmfs4k74gthlai6jjm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.91443376326-1dqaajeps6s092pmfs4k74gthlai6jjm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCn2cTkfDNPl9PJHudrq7Ns8mifQg5q6_A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>91443376326</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.instaswipey</string>
+	<key>PROJECT_ID</key>
+	<string>instadating-f8dd6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>instadating-f8dd6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:91443376326:ios:76a7983cff2dfe38c2a7c7</string>
+	<key>DATABASE_URL</key>
+	<string>https://instadating-f8dd6-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
